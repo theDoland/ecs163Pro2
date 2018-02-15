@@ -1,0 +1,102 @@
+{
+    "nodes": [
+        {
+            "group": 13, 
+            "name": "Processing Defect"
+        }, 
+        {
+            "group": 3, 
+            "name": "pork"
+        }, 
+        {
+            "group": 12, 
+            "name": "E. coli O157:H7, E. coli O145, E. coli O45"
+        }, 
+        {
+            "group": 2, 
+            "name": "beef"
+        }, 
+        {
+            "group": 11, 
+            "name": "E. coli O121"
+        }, 
+        {
+            "group": 9, 
+            "name": "Extraneous Material"
+        }, 
+        {
+            "group": 6, 
+            "name": "Undeclared Allergen"
+        }, 
+        {
+            "group": 0, 
+            "name": "other"
+        }, 
+        {
+            "group": 4, 
+            "name": "E. coli O157:H7"
+        }, 
+        {
+            "group": 5, 
+            "name": "Other"
+        }, 
+        {
+            "group": 7, 
+            "name": "Listeria monocytogenes"
+        }, 
+        {
+            "group": 1, 
+            "name": "chicken"
+        }, 
+        {
+            "group": 10, 
+            "name": "Salmonella"
+        }, 
+        {
+            "group": 8, 
+            "name": "Undeclared Substance"
+        }
+    ], 
+    "links": [
+        {
+            "source": 4, 
+            "target": 2
+        }, 
+        {
+            "source": 5, 
+            "target": 1
+        }, 
+        {
+            "source": 6, 
+            "target": 1
+        }, 
+        {
+            "source": 7, 
+            "target": 1
+        }, 
+        {
+            "source": 8, 
+            "target": 1
+        }, 
+        {
+            "source": 9, 
+            "target": 0
+        }, 
+        {
+            "source": 10, 
+            "target": 0
+        }, 
+        {
+            "source": 11, 
+            "target": 0
+        }, 
+        {
+            "source": 12, 
+            "target": 0
+        }, 
+        {
+            "source": 13, 
+            "target": 2
+        }
+    ]
+}

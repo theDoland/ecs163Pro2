@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <title>Project 2</title>
+</head>
+<html>
+  <body>
+
+    <div class="container"> <!-- Container will stretch automatically -->
+
+      <div class="view1">
+        blank
+      </div>
+      <div class="view2" id="network">
+          <button onclick="updateNetwork(value)" value="2010R.json">2010</button>
+          <button onclick="updateNetwork(value)" value="2011R.json">2011</button>
+          <button onclick="updateNetwork(value)" value="2012R.json">2012</button>
+          <button onclick="updateNetwork(value)" value="2013R.json">2013</button>
+          <button onclick="updateNetwork(value)" value="2014R.json">2014</button>
+          
+        </div>
+      <div class="view3">
+        blank
+      </div>
+    </div>
+
+    <script type="text/javascript" src="d3.v4.min.js"></script>
+	  <script type="text/javascript" src="piechart.js"></script>
+    <script type="text/javascript" src="network.js"></script>
+
+  </body>
+</html>
+<!--
+1. Sunburst chart (zoomable for the years) https://bl.ocks.org/mbostock/4348373 maybe focus on animals and their consequences
+2. Top stats -> pie chart so maybe the best of each year at the base, then as click -> whatever
+3. Network to show connections between product and disease (will be the multifilter one) http://bl.ocks.org/jose187/4733747
+-->

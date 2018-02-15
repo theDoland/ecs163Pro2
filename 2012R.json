@@ -1,0 +1,86 @@
+{
+    "nodes": [
+        {
+            "group": 11, 
+            "name": "Processing Defect"
+        }, 
+        {
+            "group": 3, 
+            "name": "pork"
+        }, 
+        {
+            "group": 2, 
+            "name": "beef"
+        }, 
+        {
+            "group": 4, 
+            "name": "Extraneous Material"
+        }, 
+        {
+            "group": 5, 
+            "name": "Undeclared Allergen"
+        }, 
+        {
+            "group": 0, 
+            "name": "other"
+        }, 
+        {
+            "group": 9, 
+            "name": "E. coli O157:H7"
+        }, 
+        {
+            "group": 7, 
+            "name": "Other"
+        }, 
+        {
+            "group": 6, 
+            "name": "Listeria monocytogenes"
+        }, 
+        {
+            "group": 1, 
+            "name": "chicken"
+        }, 
+        {
+            "group": 10, 
+            "name": "Salmonella"
+        }, 
+        {
+            "group": 8, 
+            "name": "Undeclared Substance"
+        }
+    ], 
+    "links": [
+        {
+            "source": 4, 
+            "target": 2
+        }, 
+        {
+            "source": 5, 
+            "target": 2
+        }, 
+        {
+            "source": 6, 
+            "target": 0
+        }, 
+        {
+            "source": 7, 
+            "target": 1
+        }, 
+        {
+            "source": 8, 
+            "target": 3
+        }, 
+        {
+            "source": 9, 
+            "target": 2
+        }, 
+        {
+            "source": 10, 
+            "target": 2
+        }, 
+        {
+            "source": 11, 
+            "target": 3
+        }
+    ]
+}

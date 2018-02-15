@@ -1,0 +1,69 @@
+Recall Date,Date,Recall Class,Product,Reason for Recall,Pounds Recalled
+Jan 09 2010,Jan-09-2010,I,pork,Undeclared Allergen,205
+Jan 11 2010,Jan-11-2010,I,beef,E. coli O157:H7,2574
+Jan 15 2010,Jan-15-2010,II,beef,Other,490
+Jan 18 2010,Jan-18-2010,I,beef,E. coli O157:H7,864000
+Jan 20 2010,Jan-20-2010,I,chicken,Extraneous Material,19200
+Jan 23 2010,Jan-23-2010,I,pork,Salmonella,1395989
+Jan 27 2010,Jan-27-2010,II,other,Other,50000
+Feb 02 2010,Feb-02-2010,I,beef,E. coli O157:H7,14000
+Feb 05 2010,Feb-05-2010,II,pork,Undeclared Allergen,2850
+Feb 10 2010,Feb-10-2010,II,pork,Undeclared Allergen,750
+Feb 12 2010,Feb-12-2010,II,chicken,Undeclared Allergen,16290
+Feb 12 2010,Feb-12-2010,I,beef,Other,4900000
+Mar 02 2010,Mar-02-2010,I,beef,E. coli O157:H7,96000
+Mar 08 2010,Mar-08-2010,III,pork,Undeclared Substance,186
+Mar 09 2010,Mar-09-2010,I,beef,Salmonella,115700
+Mar 11 2010,Mar-11-2010,I,chicken,Other,Undetermined
+Mar 12 2010,Mar-12-2010,I,other,Undeclared Allergen,9400
+Mar 13 2010,Mar-13-2010,I,chicken,Other,12382
+Mar 19 2010,Mar-19-2010,II,chicken,Undeclared Allergen,10368
+Apr 04 2010,Apr-04-2010,I,pork,Listeria monocytogenes,100
+Apr 05 2010,Apr-05-2010,II,beef,Other,25000
+Apr 17 2010,Apr-17-2010,II,other,Undeclared Allergen,140000
+Apr 21 2010,Apr-21-2010,I,beef,E. coli O157:H7,135500
+Apr 29 2010,Apr-29-2010,I,other,Undeclared Allergen,414
+May 01 2010,May-01-2010,I,pork,Listeria monocytogenes,460
+May 04 2010,May-04-2010,I,other,Listeria monocytogenes,822
+May 05 2010,May-05-2010,I,other,Listeria monocytogenes,70
+May 05 2010,May-05-2010,II,chicken,Extraneous Material,40
+May 07 2010,May-07-2010,II,other,Other,49600
+May 12 2010,May-12-2010,I,chicken,Undeclared Allergen,250
+May 14 2010,May-14-2010,II,beef,Residue,87000
+May 15 2010,May-15-2010,I,beef,E. coli O157:H7,53000
+Jun 17 2010,Jun-17-2010,I,other,Processing Defect,15000000
+Jun 17 2010,Jun-17-2010,I,chicken,Salmonella,6740000
+Jun 22 2010,Jun-22-2010,I,beef,E. coli O157:H7,3700
+Jun 22 2010,Jun-22-2010,I,beef,E. coli O157:H7,35000
+Jun 24 2010,Jun-24-2010,II,beef,Residue,61000
+Jun 25 2010,Jun-25-2010,II,chicken,Extraneous Material,109800
+Jun 30 2010,Jun-30-2010,III,beef,Misbranding,600
+Jun 30 2010,Jun-30-2010,I,pork,Undeclared Allergen,9408
+Jul 02 2010,Jul-02-2010,I,other,E. coli O157:H7,66776
+Jul 06 2010,Jul-06-2010,II,beef,Undeclared Allergen,8000
+Jul 07 2010,Jul-07-2010,I,chicken,Listeria monocytogenes,17
+Jul 19 2010,Jul-19-2010,II,chicken,Extraneous Material,91872
+Aug 03 2010,Aug-03-2010,I,other,Undeclared Allergen,147667
+Aug 06 2010,Aug-06-2010,I,beef,E. coli O157:H7,1000000
+Aug 23 2010,Aug-23-2010,I,other,Listeria monocytogenes,380000
+Aug 28 2010,Aug-28-2010,I,beef,E. coli O26*,8500
+Sep 01 2010,Sep-01-2010,I,pork,Other,2070
+Sep 13 2010,Sep-13-2010,III,beef,Other,258000
+Sep 24 2010,Sep-24-2010,II,pork,Undeclared Allergen,29893
+Oct 04 2010,Oct-04-2010,III,other,Misbranding,1608
+Oct 20 2010,Oct-20-2010,I,pork,Salmonella,4920
+Oct 22 2010,Oct-22-2010,II,beef,Extraneous Material,2740
+Oct 27 2010,Oct-27-2010,II,pork,Other,54000
+Nov 04 2010,Nov-04-2010,I,chicken,Processing Defect,12086
+Nov 05 2010,Nov-05-2010,I,chicken,Salmonella,7325
+Nov 14 2010,Nov-14-2010,I,chicken,Listeria monocytogenes,2609
+Nov 23 2010,Nov-23-2010,I,other,Listeria monocytogenes,57
+Dec 02 2010,Dec-02-2010,I,chicken,Other,Undetermined
+Dec 03 2010,Dec-03-2010,I,chicken,Undeclared Allergen,41670
+Dec 05 2010,Dec-05-2010,II,chicken,Extraneous Material,72000
+Dec 08 2010,Dec-08-2010,II,pork,Undeclared Allergen,2182
+Dec 10 2010,Dec-10-2010,I,chicken,Undeclared Allergen,14430
+Dec 17 2010,Dec-17-2010,II,beef,Other,25600
+Dec 29 2010,Dec-29-2010,II,beef,Undeclared Allergen,3874
+Dec 30 2010,Dec-30-2010,I,chicken,Undeclared Allergen,180000
+Dec 30 2010,Dec-30-2010,I,beef,E. coli O157:H7,34373
